@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\oop3.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\oop3.Form1.resources
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\oop3.csproj.GenerateResource.cache
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\oop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\oop3.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\oop3.AssemblyInfo.cs
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\oop3.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\bin\Debug\net6.0-windows\oop3.exe
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\bin\Debug\net6.0-windows\oop3.deps.json
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\bin\Debug\net6.0-windows\oop3.runtimeconfig.json
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\bin\Debug\net6.0-windows\oop3.dll
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\bin\Debug\net6.0-windows\oop3.pdb
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\oop3.dll
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\refint\oop3.dll
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\oop3.pdb
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\oop3.genruntimeconfig.cache
+C:\Users\User\Downloads\OOP IBAY\oop3\oop3\obj\Debug\net6.0-windows\ref\oop3.dll
